@@ -9,5 +9,5 @@
 	}
   
   	dependencies {
-	        implementation 'com.github.wellkong:loadStateView:1.0'
+	        implementation 'com.github.wellkong:loadStateView:2.0'
 	}
