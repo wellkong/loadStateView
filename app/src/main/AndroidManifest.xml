@@ -19,6 +19,22 @@
         </activity>
         <activity android:name=".StateViewActivity"></activity>
         <activity android:name=".FragmentsActivity"></activity>
+        <activity android:name="com.willkong.loadsir.MainLoadsirActivity"/>
+        <activity android:name="com.willkong.loadsir.target.NormalActivity"/>
+        <activity android:name="com.willkong.loadsir.target.ConvertorActivity"/>
+        <activity android:name="com.willkong.loadsir.target.FragmentSingleActivity"/>
+        <activity android:name="com.willkong.loadsir.target.ViewTargetActivity"/>
+        <activity android:name="com.willkong.loadsir.target.DefaultCallbackActivity"/>
+        <activity android:name="com.willkong.loadsir.target.MultiFragmentWithViewPagerActivity"/>
+        <activity android:name="com.willkong.loadsir.target.MultiFragmentActivity"/>
+        <activity android:name="com.willkong.loadsir.target.PlaceholderActivity"/>
+        <activity android:name="com.willkong.loadsir.target.AnimateActivity"/>
+        <activity android:name="com.willkong.loadsir.target.KeepTitleFragmentActivity"/>
+        <activity android:name="com.willkong.loadsir.target.BestPracticesActivity"/>
+        <activity android:name="com.willkong.loadsir.target.LottieActivity"/>
+        <activity
+            android:name="com.willkong.loadsir.target.KeepTitleActivity"
+            android:theme="@style/NoTitle"/>
     </application>
 
 </manifest>
